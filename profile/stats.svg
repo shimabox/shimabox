@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">shimabox&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 75, Total Commits  (last year) : 1322, Total PRs: 403, Total Issues: 11, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 75, Total Commits  (last year) : 1325, Total PRs: 404, Total Issues: 11, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 79.57791958046569;
+        stroke-dashoffset: 79.56579759452528;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >403</text>
+      >404</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
